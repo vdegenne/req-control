@@ -1,0 +1,7 @@
+.vscode
+src
+test
+lib/test
+.clang-format
+.gitignore
+tsconfig.json
